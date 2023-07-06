@@ -1,8 +1,4 @@
-# About Me
-
-Hi there! 👋
-
-## Brief Introduction
+# Hi there! 👋
 
 My name is Kamil, and I'm a beginner frontend developer passionate about creating user-friendly web experiences. I love combining my creativity with problem-solving skills to build visually appealing and interactive websites. As I continue to learn and explore the world of web development, I'm excited to contribute to innovative projects and collaborate with like-minded professionals.. I love building web applications and continuously improving my skills as a developer.
 
@@ -22,7 +18,7 @@ Here's a list of technologies I have experience with and I'm interested in:
 
 I've worked on various projects, including:
 
-1. [Omnifood]([https://kamildolny-omnifood.netlify.app/](https://github.com/Dolnys/Omnifood))
+1. [Omnifood](https://kamildolny-omnifood.netlify.app/)
 
 ## Contact
 
