@@ -11,7 +11,7 @@ Here's a list of technologies I have experience with and I'm interested in:
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50" height="50" style="background-color: #ffffff">
 </div>
 
 ## Projects
@@ -19,6 +19,7 @@ Here's a list of technologies I have experience with and I'm interested in:
 I've worked on various projects, including:
 
 1. [Omnifood](https://kamildolny-omnifood.netlify.app/)
+2. [Today I Learned](https://github.com/Dolnys/Today-I-Learned)
 
 ## Contact
 
