@@ -28,8 +28,8 @@ I've worked on various projects, including:
 
 If you want to get in touch with me or learn more, you can find me on:
 
-[![Email](https://img.shields.io/badge/Email-%40-ff69b4?style=for-the-badge&logo=mail.ru)](mailto:kamildolny.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40-181717?style=for-the-badge&logo=github)](https://github.com/Dolnys)
+[![Email](https://img.shields.io/badge/Email-%40-ff69b4?style=for-the-badge)](mailto:kamildolny.dev@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamil-dolny-557824226/)
 
 I'm always open to discussing projects, collaborations, or interesting ideas!
