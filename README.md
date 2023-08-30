@@ -23,7 +23,7 @@ I've worked on various projects, including:
 2. [Today I Learned](https://github.com/Dolnys/Today-I-Learned)
 3. [Oceanic Cargo](https://github.com/Dolnys/Oceanic-Cargo)
 4. [UsePopcorn](https://github.com/Dolnys/usepopcorn)
-5. [MyBike LandingPage](https://dolnys.github.io/layout_miami/)
+5. [MyBike LandingPage](https://github.com/Dolnys/MyBike-Landing)
 
 ## Contact
 
