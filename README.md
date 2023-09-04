@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Kamil, and I'm a beginner frontend developer passionate about creating user-friendly web experiences. I love combining my creativity with problem-solving skills to build visually appealing and interactive websites. As I continue to learn and explore the world of web development, I'm excited to contribute to innovative projects and collaborate with like-minded professionals.. I love building web applications and continuously improving my skills as a developer.
+My name is Kamil, and I'm a frontend developer passionate about creating user-friendly web experiences. I love combining my creativity with problem-solving skills to build visually appealing and interactive websites. As I continue to learn and explore the world of web development, I'm excited to contribute to innovative projects and collaborate with like-minded professionals.. I love building web applications and continuously improving my skills as a developer.
 
 ## Technologies I Learn and Use
 
