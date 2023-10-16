@@ -20,10 +20,11 @@ Here's a list of technologies I have experience with and I'm interested in:
 I've worked on various projects, including:
 
 1. [Omnifood](https://github.com/Dolnys/Omnifood)
-2. [Today I Learned](https://github.com/Dolnys/Today-I-Learned)
-3. [Oceanic Cargo](https://github.com/Dolnys/Oceanic-Cargo)
-4. [UsePopcorn](https://github.com/Dolnys/usepopcorn)
-5. [MyBike LandingPage](https://github.com/Dolnys/MyBike-Landing)
+2. [TodoApp](https://github.com/Dolnys/todo_app)
+3. [Today I Learned](https://github.com/Dolnys/Today-I-Learned)
+4. [Oceanic Cargo](https://github.com/Dolnys/Oceanic-Cargo)
+5. [UsePopcorn](https://github.com/Dolnys/usepopcorn)
+6. [MyBike LandingPage](https://github.com/Dolnys/MyBike-Landing)
 
 ## Contact
 
